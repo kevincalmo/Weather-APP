@@ -63,6 +63,7 @@ h1.temp {
 .description {
     text-transform: capitalize;
 }
+/*
 .weather.loading {
     visibility: hidden;
     max-height: 20px;
@@ -76,3 +77,4 @@ h1.temp {
     top: 0;
     left: 20px;
 }
+*/
